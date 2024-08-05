@@ -2,7 +2,6 @@
 """task 0"""
 
 
-
 def minOperations(n):
     """Prototype: def minOperations(n)"""
     if not isinstance(n, int):
